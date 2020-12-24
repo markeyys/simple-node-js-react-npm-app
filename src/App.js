@@ -38,7 +38,6 @@ export default function Login() {
     } else {
         history.push('home')
     }
-
   }
   return (
     <div className="Login">
